@@ -1,5 +1,5 @@
 .page-title {
-  padding: 250px 0 150px;
+  padding: 250px 0 0;
 
   .container {
     position: relative;
@@ -60,3 +60,15 @@
     }
   }
 }
+
+ .portfolio-detail {
+  padding-bottom: 5em;
+ }
+
+ .portfolio-images {
+  display: flex;
+  padding-bottom: 2em;
+ }
+ .portfolio-images img {
+  width: auto;
+ }

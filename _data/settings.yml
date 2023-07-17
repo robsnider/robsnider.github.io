@@ -2,18 +2,16 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Robert Snider <br>Production + Design
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: 
+description: Production and Design services for print and online.
+email: robert.t.snider@gmail.com
+phone: 
+address: 
+copyright: Copyright &copy; 2023 Robert Snider
 
 menu:
-  - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
@@ -25,7 +23,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: UA-148176352-1
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -36,7 +34,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! <br>I’m Rob, <br>Production Artist <br>and Designer.
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -48,7 +46,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: I help build strong brands and make things look good.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -172,76 +170,51 @@ services:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image: "assets/images/portfolio/jackman-1.png"
+    url: "jackmanlogo.html"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image: "assets/images/portfolio/rexall-1.jpg"
+    url: "rexall.html"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image: "assets/images/portfolio/48north-1.jpg"
+    url: "48north.html"
 
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image: "assets/images/portfolio/hexo-1.jpg"
+    url: "hexo.html"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Print", type: "print" }
+  - { title: "Branding", type: "branding" }
+  - { title: "Digital", type: "digital" }
+  - { title: "Photography", type: "photography" }
+  - { title: "Production", type: "production" }
+  - { title: "Motion Graphics", type: "motion graphics" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image: "assets/images/portfolio/jackman-1.jpg"
+    url: "../jackmanlogo.html"
     portfolio-type:
-      - type: "design"
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
+      - type: "production"
       - type: "branding"
 
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image: "assets/images/portfolio/rexall-1.jpg"
+    url: "../rexall.html"
     portfolio-type:
-      - type: "illustration"
+      - type: "photography"
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
+  - image: "assets/images/portfolio/48north-1.jpg"
+    url: "../48north.html"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "photography"
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
+  - image: "assets/images/portfolio/hexo-1.jpg"
+    url: "../hexo.html"
     portfolio-type:
-      - type: "illustration"
+      - type: "motion graphics"
+      - type: "digital"
+      - type: "production"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
@@ -299,5 +272,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-title: Contact
+contact-email: robert.t.snider@gmail.com
