@@ -5,7 +5,7 @@ body {
 
 ::selection {
   background: lighten($color: $primary-color, $amount: 10);
-  color: $white;
+  color: $text-color;
 }
 
 /* preloader */
@@ -38,6 +38,7 @@ a,
 a:hover,
 a:focus {
   text-decoration: none;
+  color: $text-color;
 }
 
 a,
@@ -58,7 +59,7 @@ a.text-dark{
 }
 
 a:hover {
-  color: $primary-color;
+  color: $gray;
 }
 
 .slick-slide {
@@ -67,10 +68,12 @@ a:hover {
 
 .section {
   padding-top: 80px;
+  padding-bottom: 80px;
 
   &-title {
     margin-bottom: 80px;
     font-family: $secondary-font;
+    text-wrap: balance;
   }
 }
 
@@ -263,11 +266,16 @@ textarea.form-control{
 /* card */
 .card{
   border: 0;
+  color: $text-color-dark;
+  margin: 15px 0 15px;
   &-header{
     border: 0;
   }
+  h4, p{
+    color: $text-color-dark;
+  }
   &-footer{
     border: 0;
-  }
+ }
 }
 /* /card */

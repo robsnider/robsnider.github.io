@@ -4,10 +4,10 @@
 
 title: Robert Snider <br>Production + Design
 logo:
-author: 
-description: Production and Design services for print and online.
-email: robert.t.snider@gmail.com
-phone: 
+author: themefisher
+description: this is meta description
+email: robert.t.snider@gmail.com.com
+phone: 416-788-4057
 address: 
 copyright: Copyright &copy; 2023 Robert Snider
 
@@ -69,17 +69,9 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Rob Snider"
     image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
-
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
-
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+    designation: "Owner, Production Artist + Designer"
 
 #-------------------------------
 # Skills Section
@@ -121,24 +113,9 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
-    }
-  - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
+      name: Bachelor&#146;s Visual Arts,
       date: "1998",
-      organization: "Cardiff School",
+      organization: "York University",
     }
 
 #-------------------------------
@@ -147,23 +124,54 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: Design,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Whether we build it ourselves, or work within an existing brand, know that you'll get an expression of your brand that works.",
       active: ,# Add true to select section
     }
+
   - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
-    }
-  - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: Digital Advertising,
+      icon: ti-desktop,
+      description: "HTML5 Banner Ads using CSS3 that fully conform to Google Ads requirements and will look great across all devices.",
       active: ,# Add true to select section
     }
+
+  - {
+      name: Print Production,
+      icon: ti-book,
+      description: "Whatever the size or application, know that your piece will come out perfect when the ink hits the paper.",
+      active: ,# Add true to select section
+    }
+
+  - {
+      name: Motion Graphics,
+      icon: ti-control-play,
+      description: "For social or as a tool illustrate and educate I can tailor whatever you have in mind to create a great visual impact.",
+      active: ,# Add true to select section
+    }
+
+  - {
+      name: Photography + Photo Retouching,
+      icon: ti-camera,
+      description: "Professional photography and colour-correction that highlights your product.",
+      active: ,# Add true to select section
+    }
+
+  - {
+      name: Microsoft Templates,
+      icon: ti-blackboard,
+      description: "Maintain consistency across communications with well structured and easy to use templates.",
+      active: ,# Add true to select section
+    }
+
+  - {
+      name: Email Marketing,
+      icon: ti-mobile,
+      description: "Carefully crafted marketing that will speak to your customers and look good too.",
+      active: ,# Add true to select section
+    }
+
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -215,7 +223,6 @@ portfolio-items:
       - type: "digital"
       - type: "production"
 
-
 #-------------------------------
 # Testimonials Section
 
@@ -254,19 +261,49 @@ client-slider-items:
   - logo: "assets/images/clients-logo/client-logo-5.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/client-logo-6.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/client-logo-7.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/client-logo-8.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
+  - logo: "assets/images/clients-logo/client-logo-9.png"
     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/client-logo-10.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-11.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-12.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-13.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-14.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-15.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-16.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-17.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-18.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-19.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-20.png"
     url: "#"
 
 #-------------------------------
@@ -274,3 +311,4 @@ client-slider-items:
 
 contact-title: Contact
 contact-email: robert.t.snider@gmail.com
+form-url: https://formspree.io/f/mqkvakna
