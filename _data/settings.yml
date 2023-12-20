@@ -147,7 +147,7 @@ services:
   - {
       name: Motion Graphics,
       icon: ti-control-play,
-      description: "For social or as a tool to illustrate and educate I can tailor whatever you have in mind to create a great visual impact.",
+      description: "For social or as a tool to illustrate and educate, I can tailor whatever you have in mind to create a great visual impact.",
       active: ,# Add true to select section
     }
 
