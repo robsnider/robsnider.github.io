@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("../webfonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+    font-family: "PlayfairDisplay";
+    src: url("../webfonts/PlayfairDisplay-Regular.ttf");
+}
+
+body {
+    font-family: "Montserrat", Helvetica, sans-serif;
+    font-size: 13pt;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "PlayfairDisplay", Times, serif;
+    font-weight: 100;
+    font-size: 36pt;
+}
